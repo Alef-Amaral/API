@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+*.log
+.DS_Store
+instances/
+store/
+postgres_data/
+redis_data/
